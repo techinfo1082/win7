@@ -24,6 +24,6 @@ echo "Keep supporting akuh.net, thank you"
 echo "You Got Free RDP now"
 echo "Wait 2 minute to finish bot"
 echo "You can close this tab"
-echo "RDP runs for 50 hours"
+echo "RDP runs"
 echo "===================================="
 sleep 432000
