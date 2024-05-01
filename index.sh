@@ -1,5 +1,5 @@
 sudo su
-apt-get update
+apt update
 echo "Download windows files"
 wget -O w7x64.img https://bit.ly/akuhnetw7X64
 echo "Download ngrok"
